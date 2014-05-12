@@ -1,4 +1,4 @@
-testrepo
+new testrepo
 ========
 
-test repo
+new test repo
